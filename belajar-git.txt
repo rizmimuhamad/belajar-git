@@ -1,0 +1,3 @@
+# belajar-git
+-saya sedang memulai belajar membuat git
+-saya ingin mengasah kemampuan saya dan pemograman
